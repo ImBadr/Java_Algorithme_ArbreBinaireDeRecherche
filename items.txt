@@ -1,0 +1,15 @@
+Grenade ; 2.0 ; 30.0
+Fumigene ; 0.1 ; 20.0
+Pouêle ; 0.2 ; 40.0
+Machette ; 0.2 ; 50.0
+MRE ; 0.5 ; 60.0
+Tente ; 3.0 ; 100.0
+Trousse de soin ; 0.2 ; 93.0
+Bereta ; 2.0 ; 2000.0
+Desert Eagle ; 1.5 ; 1200.0 
+Ak47 ; 5.0 ; 700.0
+M16A4 ; 3.0 ; 500.0
+M416 ; 4.0 ; 900.0
+Groza ; 5.0 ; 1800
+Pain de C4 ; 0.1 ; 100.0
+AWM ; 8.0 ; 2500.0
